@@ -4,9 +4,9 @@ My Claude Code rig — scripts, skills, hooks, and commands.
 
 ## What's Inside
 
-| Component | Description | Docs |
-|-----------|-------------|------|
-| Statusline | 三行即時儀表板 — model, context, cost, rate limits, cache hit | [docs/statusline.md](docs/statusline.md) |
+| Component                                   | Description                                            | 
+|---------------------------------------------|--------------------------------------------------------|
+| [Statusline](docs/statusline/statusline.md) | 三行即時儀表板 — model, context, cost, rate limits, cache hit |  
 
 ## Project Structure
 
