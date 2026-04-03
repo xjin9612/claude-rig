@@ -1,1 +1,15 @@
-/.idea/
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+/.claude/
+
+# Cache
+*.pyc
+__pycache__/
